@@ -2,6 +2,7 @@
 layout: post
 title: JIRA
 category: Dev
+author: mj
 
 excerpt: سلام جیرا
 
